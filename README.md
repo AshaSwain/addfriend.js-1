@@ -1,0 +1,1 @@
+# addfriend.js-1
