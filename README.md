@@ -4,8 +4,6 @@
 
 I’ve crafted a dynamic portfolio website to demonstrate the power of HTML, CSS, JavaScript, and animations. It’s all about combining functionality and aesthetics for an outstanding user experience. 🚀
 
-👉 Check it out here: https://lnkd.in/dwAfjZxG
-
 ✨ Highlights of the Project:
 🔹 HTML: Structured and semantic design for clean, accessible content.
 🔹 CSS: A modern, responsive layout with visually appealing styling.
